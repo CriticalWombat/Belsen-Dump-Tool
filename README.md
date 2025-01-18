@@ -1,4 +1,4 @@
-# Belson File Processing and Search Tool
+# Belsen File Processing and Search Tool
 
 ## This tool is designed strictly for rapid assessment of compromise status. Any misuse of this tool for illegal purposes is not condoned.
 
