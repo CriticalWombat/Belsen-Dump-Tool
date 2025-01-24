@@ -1,0 +1,4 @@
+## Remove examples below and place your own search terms. A single keyword per line.
+Client1
+company2
+Known repeated terrible company credential that shouldn't be used but it is...
